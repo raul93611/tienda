@@ -20,6 +20,20 @@ body{
   background-repeat: no-repeat;
 }
 
-.imagen_nosotros > div{  
+.imagen_nosotros > div{
   height: 500px;
+}
+
+.bg_producto_1{
+  background-image: url('../img/producto1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.producto1 > div{
+  height: 390px;
+}
+
+.footer .nav-link{
+  color: #343a40 !important;
 }
