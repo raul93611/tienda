@@ -1,0 +1,25 @@
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+.header nav{
+  border-top: 1px solid #343a40;
+  border-bottom: 1px solid #343a40;
+}
+
+.bg_principal{
+  background-image: url('../img/principal.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 600px;
+}
+
+.nosotros .bg_nosotros{
+  background-image: url('../img/nosotros.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.imagen_nosotros > div{  
+  height: 500px;
+}
